@@ -69,7 +69,7 @@ namespace ApiCatalogoJogos.Repositories
 
         public void Dispose()
         {
-            //Não é utilizado para finalizar conexão pois o 'banco' foi mockado
+            //Não é utilizado para finalizar conexão pois nesse repositório o 'banco' foi mockado
         }
     }
 }
