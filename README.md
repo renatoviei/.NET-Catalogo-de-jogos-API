@@ -8,9 +8,9 @@ Foram desenvolvidos e abordados os seguintes tópicos:
 * Setup inicial de projeto com o Visual Studio 2019;
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados;
 * Criação de classes de abstração e contratos (Controllers, Interfcaces, Services e Repositórios);
-* Criação do banco de dados Sql Server utilizando o Microsoft SQL Server Management Studio 18 e realizada a conexão com a aplicação;
+* Criação do banco de dados Sql Server utilizando o Microsoft SQL Server Management Studio 18 e realização da conexão com a aplicação;
 * Desenvolvimento de operações de gerenciamento de jogos (Cadastro, leitura, atualização e remoção de jogos de um sistema);
-* Utilização do o Swagger/OpenAPI para reralização de testes dos serviços e também como forma de documentar a aplicação.
+* Utilização do o Swagger/OpenAPI para realização de testes dos serviços e também como forma de documentar as informações da aplicação.
 
 <h2>Script de criação e utilização do banco de dados CatalogoJogos e da tabela Jogos</h2>
 
