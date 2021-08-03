@@ -1,5 +1,5 @@
 # Catalogo-de-jogos
-<h2>Criando um catálogo de jogos usando boas práticas de arquitetura com .NET e Sql Server</h2>
+<h2>Criando um catálogo de jogos usando boas práticas de arquitetura com .NET e SQL Server</h2>
 
 Neste projeto foi desenvolvido um pequeno sistema para o gerenciamento de um catálogo de jogos através de uma API REST, criada com o .NET.
 
@@ -8,7 +8,7 @@ Foram desenvolvidos e abordados os seguintes tópicos:
 * Setup inicial de projeto com o Visual Studio 2019;
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados;
 * Criação de classes de abstração e contratos (Controllers, Interfcaces, Services e Repositórios);
-* Criação do banco de dados Sql Server utilizando o Microsoft SQL Server Management Studio 18 e realização da conexão com a aplicação;
+* Criação do banco de dados SQL Server utilizando o Microsoft SQL Server Management Studio 18 e realização da conexão com a aplicação;
 * Desenvolvimento de operações de gerenciamento de jogos (Cadastro, leitura, atualização e remoção de jogos de um sistema);
 * Utilização do o Swagger/OpenAPI para realização de testes dos serviços e também como forma de documentar as informações da aplicação.
 
